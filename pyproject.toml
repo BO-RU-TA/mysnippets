@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "maps-me-to-kml"
+version = "1.0.0"
+description = "Convert MAPS.ME bookmark and track files (.kmb) to KML"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Łukasz Bajger" }]
+requires-python = ">=3.9"
+keywords = ["maps.me", "kmb", "kml", "gps", "bookmarks", "tracks", "converter"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Topic :: Scientific/Engineering :: GIS",
+]
+
+[project.urls]
+Homepage = "https://github.com/BO-RU-TA/maps-me-to-kml"
+
+[project.scripts]
+maps-me-to-kml = "maps_me_to_kml.cli:main"
+
+[tool.setuptools]
+packages = ["maps_me_to_kml"]
