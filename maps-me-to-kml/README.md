@@ -40,10 +40,10 @@ The bookmarks live in **`MapsWithMe/bookmarks/`** in the phone's internal storag
 ## Install
 
 ```
-pip install git+https://github.com/BO-RU-TA/maps-me-to-kml
+pip install "git+https://github.com/BO-RU-TA/mysnippets#subdirectory=maps-me-to-kml"
 ```
 
-or just clone the repository and run it with `python3 -m maps_me_to_kml` from its folder.
+or just clone the repository and run it with `python3 -m maps_me_to_kml` from the `maps-me-to-kml` folder.
 
 ## Usage
 
@@ -104,4 +104,4 @@ with them.
 
 ## License
 
-MIT - see [LICENSE](LICENSE).
+MIT - see [LICENSE](../LICENSE).

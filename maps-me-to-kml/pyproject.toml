@@ -19,7 +19,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/BO-RU-TA/maps-me-to-kml"
+Homepage = "https://github.com/BO-RU-TA/mysnippets/tree/main/maps-me-to-kml"
 
 [project.scripts]
 maps-me-to-kml = "maps_me_to_kml.cli:main"
