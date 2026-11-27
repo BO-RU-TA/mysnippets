@@ -211,10 +211,10 @@
         <mxCell id="pNJWLsBhbQshRJMd3o3w-21" parent="1" style="swimlane;rounded=1;arcSize=8;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=12;swimlaneFillColor=#ffffff;fillColor=#b1ddf0;strokeColor=#10739e;" value="AD DNS secondary" vertex="1">
           <mxGeometry height="30" width="250" x="288" y="850" as="geometry" />
         </mxCell>
-        <mxCell id="pNJWLsBhbQshRJMd3o3w-25" parent="1" style="rounded=1;arcSize=40;html=1;fillColor=none;strokeColor=light-dark(#000000, #5cb3dc);dashed=1;strokeWidth=1.5;verticalAlign=top;fontSize=12;fontFamily=Helvetica;fontColor=#333333;spacingBottom=0;dashPattern=1 1;spacingTop=6;fontStyle=1;whiteSpace=wrap;" value="Sieć wewnętrzna" vertex="1">
+        <mxCell id="pNJWLsBhbQshRJMd3o3w-25" parent="1" style="rounded=1;arcSize=40;html=1;fillColor=none;strokeColor=none;dashed=1;strokeWidth=1.5;verticalAlign=top;fontSize=12;fontFamily=Helvetica;fontColor=#333333;spacingBottom=0;dashPattern=1 1;spacingTop=6;fontStyle=1;whiteSpace=wrap;" value="Sieć wewnętrzna" vertex="1">
           <mxGeometry height="345" width="830" x="10" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="pNJWLsBhbQshRJMd3o3w-27" parent="1" style="rounded=1;arcSize=40;html=1;fillColor=none;strokeColor=light-dark(#000000, #5cb3dc);dashed=1;strokeWidth=1.5;verticalAlign=top;fontSize=12;fontFamily=Helvetica;fontColor=#333333;spacingBottom=0;dashPattern=1 1;roundedPerimeter=1;glass=0;shadow=0;multiple=0;spacingTop=6;fontStyle=1;whiteSpace=wrap;" value="Para bram · adresy wirtualne VRRP trzyma brama aktywna" vertex="1">
+        <mxCell id="pNJWLsBhbQshRJMd3o3w-27" parent="1" style="rounded=1;arcSize=40;html=1;fillColor=none;strokeColor=none;dashed=1;strokeWidth=1.5;verticalAlign=top;fontSize=12;fontFamily=Helvetica;fontColor=#333333;spacingBottom=0;dashPattern=1 1;roundedPerimeter=1;glass=0;shadow=0;multiple=0;spacingTop=6;fontStyle=1;whiteSpace=wrap;" value="Para bram · adresy wirtualne VRRP trzyma brama aktywna" vertex="1">
           <mxGeometry height="500" width="830" x="10" y="200" as="geometry" />
         </mxCell>
       </root>
