@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" compressed="false">
   <diagram id="blokowy" name="Schemat blokowy">
-    <mxGraphModel dx="1911" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="2438" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,9 +58,6 @@
         </mxCell>
         <mxCell id="b5" parent="1" style="sketch=0;html=1;aspect=fixed;pointerEvents=1;shape=mxgraph.cisco19.router;fillColor=#005073;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=13;fontStyle=1;verticalLabelPosition=middle;labelPosition=right;align=left;verticalAlign=middle;spacingLeft=8;" value="&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;gw-02&lt;/span&gt;&lt;br&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size:11px&quot;&gt;BACKUP&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="64" width="64" x="720" y="409" as="geometry" />
-        </mxCell>
-        <mxCell id="b28" parent="1" style="text;html=1;align=center;fontSize=12;fontColor=#555555;" value="adresy wirtualne VRRP trzyma tylko brama aktywna" vertex="1">
-          <mxGeometry height="22" width="320" x="270" y="965" as="geometry" />
         </mxCell>
         <mxCell id="l1" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.modems_and_phones.modem;fontSize=10;fontFamily=Courier New;" value="światłowód&lt;br&gt;(główne)" vertex="1">
           <mxGeometry height="18" width="50" x="153" y="87" as="geometry" />
