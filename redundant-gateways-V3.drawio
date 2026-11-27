@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" compressed="false">
   <diagram id="blokowy" name="Schemat blokowy">
-    <mxGraphModel dx="2554" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="2899" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,8 +221,7 @@
         <mxCell id="pNJWLsBhbQshRJMd3o3w-27" parent="1" style="rounded=1;arcSize=40;html=1;fillColor=none;strokeColor=none;dashed=1;strokeWidth=1.5;verticalAlign=top;fontSize=12;fontFamily=Helvetica;fontColor=#333333;spacingBottom=0;dashPattern=1 1;roundedPerimeter=1;glass=0;shadow=0;multiple=0;spacingTop=6;fontStyle=1;whiteSpace=wrap;" value="Para bram · adresy VIP trzyma brama aktywna" vertex="1">
           <mxGeometry height="500" width="830" x="2" y="208" as="geometry" />
         </mxCell>
-      <mxCell id="ddns2" edge="1" parent="1" source="r_kea" target="r_bind" style="endArrow=classic;html=1;curved=1;strokeColor=#10739e;strokeWidth=1.5;fontSize=11;fontColor=#10739e;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="DDNS"><mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="268" y="414" /></Array></mxGeometry></mxCell>
-</root>
+      </root>
     </mxGraphModel>
   </diagram>
 </mxfile>
