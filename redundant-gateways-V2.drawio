@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" compressed="false">
   <diagram id="blokowy" name="Schemat blokowy">
-    <mxGraphModel dx="2438" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="1704" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
             <mxPoint x="212" y="158" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2" edge="1" parent="1" style="endArrow=none;html=1;strokeColor=#b85450;curved=1;fontSize=11;labelBackgroundColor=#ffffff;strokeWidth=1.5;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" target="b4" value="">
-          <mxGeometry relative="1" x="-0.0228" as="geometry">
+        <mxCell id="e2" edge="1" parent="1" source="o2" style="endArrow=none;html=1;strokeColor=#b85450;curved=1;fontSize=11;labelBackgroundColor=#ffffff;strokeWidth=1.5;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" target="b4" value="">
+          <mxGeometry relative="1" x="-0.0415" as="geometry">
             <Array as="points">
               <mxPoint x="538" y="161" />
               <mxPoint x="238" y="176" />
