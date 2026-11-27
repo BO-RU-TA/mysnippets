@@ -183,7 +183,7 @@
           <mxGeometry height="12" width="56" x="514" y="445" as="geometry" />
         </mxCell>
         <mxCell id="m1043" parent="1" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="30" width="160" x="410" y="690" as="geometry" />
+          <mxGeometry height="30" width="100" x="448" y="690" as="geometry" />
         </mxCell>
         <mxCell id="m1044" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#333333;spacing=0;fontStyle=1;" value="Core B" vertex="1">
           <mxGeometry height="16" width="270" x="360" y="697" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry height="12" width="200" x="502" y="648" as="geometry" />
         </mxCell>
         <mxCell id="m1047" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=0;fillColor=#FAFAFA;strokeColor=#999999;align=left;spacingLeft=8;fontSize=10;fontColor=#333333;" value="VLAN MGMT: management ports (servers, arrays, tape libraries)&#xa;VLAN UPS: UPS&#xa;unused ports: parked in a blocked VLAN" vertex="1">
-          <mxGeometry height="62" width="220" x="100" y="623" as="geometry" />
+          <mxGeometry height="89" width="220" x="180" y="591" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
