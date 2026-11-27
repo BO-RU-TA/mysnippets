@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" compressed="false">
   <diagram id="blokowy" name="Schemat blokowy">
-    <mxGraphModel dx="1704" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="2899" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,21 +168,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D24_O5tPPWSiYtos1Ekr-2" edge="1" parent="1" source="r_bind" style="endArrow=classic;html=1;curved=1;strokeColor=#10739e;strokeWidth=1.5;fontSize=11;fontColor=#10739e;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="ad" value="strefy BIND">
-          <mxGeometry x="0.4" relative="1" as="geometry">
+          <mxGeometry relative="1" x="0.4" as="geometry">
             <Array as="points">
               <mxPoint x="688" y="561" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D24_O5tPPWSiYtos1Ekr-3" edge="1" parent="1" source="r_kea" style="endArrow=classic;html=1;curved=1;strokeColor=#10739e;strokeWidth=1.5;fontSize=11;fontColor=#10739e;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="ad" value="DDNS · strefy AD">
-          <mxGeometry x="0.72" relative="1" as="geometry">
+          <mxGeometry relative="1" x="0.6254" y="-37" as="geometry">
+            <mxPoint x="1" as="offset" />
             <Array as="points">
               <mxPoint x="628" y="551" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pNJWLsBhbQshRJMd3o3w-2" edge="1" parent="1" source="ad" style="endArrow=classic;html=1;curved=1;strokeColor=#10739e;strokeWidth=1.5;fontSize=11;fontColor=#10739e;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="r_bind" value="strefy AD">
-          <mxGeometry x="-0.62" relative="1" as="geometry">
+        <mxCell id="pNJWLsBhbQshRJMd3o3w-2" edge="1" parent="1" source="ad" style="endArrow=classic;html=1;curved=1;strokeColor=#10739e;strokeWidth=1.5;fontSize=11;fontColor=#10739e;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="r_bind" value="DDNS - strefy AD">
+          <mxGeometry relative="1" x="-0.62" as="geometry">
             <Array as="points">
               <mxPoint x="198" y="571" />
             </Array>
@@ -211,13 +212,12 @@
           <mxGeometry height="30" width="250" x="288" y="850" as="geometry" />
         </mxCell>
         <mxCell id="pNJWLsBhbQshRJMd3o3w-25" parent="1" style="rounded=1;arcSize=40;html=1;fillColor=none;strokeColor=light-dark(#000000, #5cb3dc);dashed=1;strokeWidth=1.5;verticalAlign=top;fontSize=12;fontFamily=Helvetica;fontColor=#333333;spacingBottom=0;dashPattern=1 1;spacingTop=6;fontStyle=1;whiteSpace=wrap;" value="Sieć wewnętrzna" vertex="1">
-          <mxGeometry height="345" width="820" x="10" y="740" as="geometry" />
+          <mxGeometry height="345" width="830" x="10" y="740" as="geometry" />
         </mxCell>
         <mxCell id="pNJWLsBhbQshRJMd3o3w-27" parent="1" style="rounded=1;arcSize=40;html=1;fillColor=none;strokeColor=light-dark(#000000, #5cb3dc);dashed=1;strokeWidth=1.5;verticalAlign=top;fontSize=12;fontFamily=Helvetica;fontColor=#333333;spacingBottom=0;dashPattern=1 1;roundedPerimeter=1;glass=0;shadow=0;multiple=0;spacingTop=6;fontStyle=1;whiteSpace=wrap;" value="Para bram · adresy wirtualne VRRP trzyma brama aktywna" vertex="1">
-          <mxGeometry height="480" width="820" x="10" y="220" as="geometry" />
+          <mxGeometry height="500" width="830" x="10" y="200" as="geometry" />
         </mxCell>
-      <mxCell id="ddns2" edge="1" parent="1" source="r_kea" target="r_bind" style="endArrow=classic;html=1;curved=1;strokeColor=#10739e;strokeWidth=1.5;fontSize=11;fontColor=#10739e;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="DDNS"><mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="285" y="414" /></Array></mxGeometry></mxCell>
-</root>
+      </root>
     </mxGraphModel>
   </diagram>
 </mxfile>
